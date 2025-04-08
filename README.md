@@ -110,19 +110,15 @@ por medio del comando
 ```
 ### se abre la consula de play with docker
 ![](image-1.png)
-### se consume la imagen del repositorio de docker
-![alt text](image.png)
+
 ---
 
 ## 🌟 Resultados de cómo se ve
 
-Cuando accedes al endpoint `/hello`, obtendrás la siguiente respuesta en formato JSON:
+Cuando accedes al endpoint `/hello`, obtendrás la siguiente respuesta:
 
-```json
-{
-  "message": "Hello, World!"
-}
-```
+
+![alt text](image.png)
 
 ---
 
