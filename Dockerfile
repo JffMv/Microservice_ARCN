@@ -1,0 +1,1 @@
+dockerfile FROM openjdk:17-jdk-slim COPY target/microservice-helloworld.jar microservice-helloworld.jar ENTRYPOINT ["java", "-jar", "/microservice-helloworld.jar"]
